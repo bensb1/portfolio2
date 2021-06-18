@@ -1,6 +1,7 @@
-###Menu
+<h3>Menu</h3>
 
 <ul>
+  <li {% if page.url contains '/index' %}class="active"{% endif %}><a href="index.html">🏠</a></li>
   <li {% if page.url contains '/about' %}class="active"{% endif %}><a href="about.html">About</a></li>
   <li {% if page.url contains '/markdown' %}class="active"{% endif %}><a href="markdown.html">Markdown</a></li>
 </ul>
