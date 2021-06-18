@@ -1,3 +1,3 @@
 # My portfolio
-[FMP] (https://bensb1.github.io/FMP-SpaceJump/)
-[Bolt game] (https://bensb1.github.io/bolt-game/)
+ 1. [FMP] (https://bensb1.github.io/FMP-SpaceJump/)
+ 2. [Bolt game] (https://bensb1.github.io/bolt-game/)
